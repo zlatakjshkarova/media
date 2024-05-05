@@ -1,2 +1,2 @@
 # mediaa
-https://zlatakjshkarova.github.io/mediaa/
+ https://zlatakjshkarova.github.io/media/
